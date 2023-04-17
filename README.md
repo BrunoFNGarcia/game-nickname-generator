@@ -9,12 +9,14 @@ Once copied, you will see the last four lines as examples.
 You have many ways of using it:
 
   ### Name
-    You can choose any name, or you can get a random one by passing random into the function.
+    You can choose any name, or you can get a random one by passing 'random' into the function.
     
   ### Last Name
-    You can choose any name, or you can get a random one by passing random into the function.
+    You can choose any last name, or you can get a random one by passing 'random' into the function.
     
   ### Pronoun
-    You can choose any pronoun, or you can get a random one by passing de 'pronoun' string into the function. Or you also can pass nothing and you won't have a pronoun.
-You can use or not a pronoun, use a given name or ask for the code to get a random one (same for last name)
+    You can choose any pronoun, or you can get a random one by passing de 'random' string into the function. Or you also can pass nothing and you won't have a pronoun.
+    
+    
+#### This is just a training code, so it's very simple and limited to 36 combinations of Name + Last Name.
 
