@@ -3,14 +3,6 @@
 2. It will return a random "name" from db1 and "last name" from db2 and group them together. 
 3. The user can specify a "name" or "last name", then the program will just return the missing one and group them together.
 4. Nickname can have a treatment pronoun, which can also be randomly generated or choosen by the user.
-
-
-Azueraya Ewooth
-Misewus Aiya
-Brasi Galdfaher
-Tarayn Yboen
-Thaliena Glan
-Arker Zaured
 */
 
 // Names Database
